@@ -2,6 +2,14 @@
 
 A retrospective, independently authored full-stack project aligned to public themes from the IBM Full Stack Software Developer Professional Certificate. This was created after certification; it is not recovered Coursera coursework, a submitted assessment, or a graded project. The course version completed may differ from the current public syllabus.
 
+## Certificate
+
+[IBM Full Stack Software Developer Professional Certificate](https://coursera.org/verify/professional-cert/O1J10FFYDZ75) · 15 courses · completed September 30, 2026 · [view certificate image](certificates/ibm-full-stack-software-developer.jpeg).
+
+## Course coverage
+
+See [COURSE_COVERAGE.md](COURSE_COVERAGE.md) for a course-by-course comparison of the certificate list with repository files. Related portfolio work is not the original classwork.
+
 ## Project: LaunchOps
 
 A small project-readiness tracker: Django REST API, React client, SQLite persistence, Docker Compose, and a GitHub Actions workflow. The app demonstrates CRUD flows and clear API boundaries; it is a learning artifact, not a production service.
